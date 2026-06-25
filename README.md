@@ -10,7 +10,6 @@ st.set_page_config(
     layout="centered"
 )
 
-
 st.title("👗 StyleMe（スタイルミー）")
 st.caption("ソフトウェア工学 PBLプロトタイプ検証用システム")
 st.markdown("---")
